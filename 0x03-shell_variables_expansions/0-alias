@@ -1,2 +1,2 @@
 #!/bin/bash
-alia ls="m *"
+alias ls="m *"
